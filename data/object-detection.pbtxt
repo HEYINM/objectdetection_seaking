@@ -1,0 +1,35 @@
+item {
+  id: 1
+  name: 'baikalTeal'
+}
+
+item {
+  id: 2
+  name: 'cormorant'
+}
+
+item {
+  id: 3
+  name: 'greyHeron'
+}
+
+item {
+  id: 4
+  name: 'eurasianTreeSparrow'
+}
+
+item {
+  id: 5
+  name: 'pigeon'
+}
+
+item {
+  id: 6
+  name: 'person'
+}
+
+item {
+  id: 7
+  name: 'fishBoat'
+}
+
